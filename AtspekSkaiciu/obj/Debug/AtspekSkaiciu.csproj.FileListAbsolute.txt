@@ -1,0 +1,20 @@
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\bin\Debug\AtspekSkaiciu.exe.config
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\bin\Debug\AtspekSkaiciu.exe
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\bin\Debug\AtspekSkaiciu.pdb
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.csproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.Form1.resources
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.Properties.Resources.resources
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.csproj.GenerateResource.cache
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.csproj.CoreCompileInputs.cache
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.exe
+C:\Users\hello\OneDrive\Desktop\AtspekSkaiciu\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.pdb
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\bin\Debug\AtspekSkaiciu.exe.config
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\bin\Debug\AtspekSkaiciu.exe
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\bin\Debug\AtspekSkaiciu.pdb
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.csproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.Form1.resources
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.Properties.Resources.resources
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.csproj.GenerateResource.cache
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.csproj.CoreCompileInputs.cache
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.exe
+C:\Users\hello\OneDrive\Desktop\C#\1. Savarankiškas\AtspekSkaiciu\obj\Debug\AtspekSkaiciu.pdb
